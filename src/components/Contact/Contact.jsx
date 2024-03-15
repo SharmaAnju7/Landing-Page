@@ -59,9 +59,7 @@ const Contact = () => {
               <span className="text-gray-800">hello45@example.com</span>
             </div>
           </div>
-
-              
-              <div className="flex items-center mt-4">
+         <div className="flex items-center mt-4">
                 <button className="relative group">
                   <span className="custom-btn">Contact us</span>
                   <div className="text-white bg-primary absolute right-0 rounded-full ml-4 top-7 group-hover:bg-gray-300 transition duration-300">
@@ -79,9 +77,7 @@ const Contact = () => {
             </div>
             </div>
             <div id="map" className="w-full h-100"></div>
-        
          </div>
-        
   )
 }
 
